@@ -1,0 +1,7 @@
+build/
+__pycache__
+.ccls-cache
+*.o
+*.so
+build*
+.*.sw[a-z]
