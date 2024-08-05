@@ -3,5 +3,6 @@ __pycache__
 .ccls-cache
 *.o
 *.so
+*.out
 build*
 .*.sw[a-z]
