@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <dlfcn.h>
-#include <casadi/mem.h>
+
+typedef long long int casadi_int;
 
 int main(){
   printf("---\n");
